@@ -3,7 +3,9 @@
   <img height="250" src="https://raw.githubusercontent.com/NandanDesai/res/master/torghost.png"> 
 </p>
 <h2 align="center">TorGhost</h2>
+
 # **This Fork is underconstruction to make it compatiable with linux distros with openrc systems, such as Artix and Gentoo**
+
 [![GitHub release](https://img.shields.io/github/v/release/databurn-in/TorGhost?include_prereleases)](https://github.com/databurn-in/TorGhost/releases) ![License: GPL-3.0](https://img.shields.io/github/license/databurn-in/TorGhost)
 
 TorGhost redirects all your internet traffic through SOCKS5 Tor proxy. DNS requests are also redirected via tor, thus preventing DNS leaks.
